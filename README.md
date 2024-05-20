@@ -35,7 +35,7 @@ step 2 open dev tools
 
 step 3 go to the network tab and then find "get_user_kasms" then select payload section
 
-![ima](https://media.discordapp.net/attachments/1219780930999156898/1241838262289432606/cqjyOZZ.png?ex=664ba781&is=664a5601&hm=683430aa9a3ce057a25e2713f406b61ae36cfb126e24600e777f56f11c907c31&=&format=webp&quality=lossless&width=438&height=525)
+![ima](https://github.com/p8lc/kasmcord/blob/main/data/MylBihQ.png?raw=true)
 
 step 4
 
