@@ -15,6 +15,7 @@ brought to you by [p8.lc](https://p8.lc)
 
 ## 1. ensure that the engine is installed
 
+![c](https://github.com/p8lc/kasmcord/blob/main/data/Screenshot%202024-05-20%20at%2011.50.00.png?raw=true)
 ### make sure you have node.js installed - [https://nodejs.org](https://nodejs.org) or bunjs or deno, whichever works...
 
 ## 2. sign in to kasm
