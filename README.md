@@ -7,7 +7,7 @@ a kasm workspaces api discord rpc thing (need to configure w/ ur own domain and 
 🎗️ - Bring them home NOW! 🇮🇱✡️
 
 Coding by [pizzabossxd](https://github.com/pizzabossxd) && [Corazon](https://github.com/assafgold1)
-brought to you by [p8.lc](https://p8.lc)
+brought to you by [p8.lc](https://p8.lc) 
 
 #
 
@@ -15,8 +15,8 @@ brought to you by [p8.lc](https://p8.lc)
 
 ## 1. ensure that the engine is installed
 
-![c](https://github.com/p8lc/kasmcord/blob/main/data/Screenshot%202024-05-20%20at%2011.50.00.png?raw=true)
 ### make sure you have node.js installed - [https://nodejs.org](https://nodejs.org) or bunjs or deno, whichever works...
+![c](https://github.com/p8lc/kasmcord/blob/main/data/Screenshot%202024-05-20%20at%2011.50.00.png?raw=true)
 
 ## 2. sign in to kasm
 
