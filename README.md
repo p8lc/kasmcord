@@ -40,7 +40,7 @@ step 3 go to the network tab and then find "get_user_kasms" then select payload 
 
 step 4
 
-![3](https://media.discordapp.net/attachments/1241720973229555712/1241881178722668655/ag3ybJq.png?ex=664bcf7a&is=664a7dfa&hm=373dc3c898f58e5eddf17caa072f1a19dc27dfdbb3147d5b292766cae7241229&=&format=webp&quality=lossless&width=1437&height=1164)
+![3](https://github.com/p8lc/kasmcord/blob/main/data/9ec0fba9-a432-4db3-8015-31d3bdb9833c.jpg?raw=true)
 
 make sure to run "npm i" or "pnpm i", "yarn", or "bun install", whichever you use.
 
